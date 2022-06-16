@@ -2,13 +2,9 @@
 
 ## Problems
 
-
-
 [//]: # (1a. Make a class called review and create a public static method that takes in a double 
 called radius, so that you can find the circumference of a circle. &#40;Circumference Equation: 
 C = 2πr&#41;)
-
-
 
 [//]: # (1b. make the circumference method work with integers and doubles by using method 
 overloading)
@@ -30,7 +26,6 @@ and an `int` named `year`. Create a constructor that sets the `model`, `make`, `
 getters and setters for each property.&#40;Remember we can generate these by right clicking -> 'Generate' -> 
 Getters and Setters&#41;)
 
-
 [//]: # (5. Inside **carShop** create another class called **Customer** and make 
 instance fields that can't be accessed outside **Customer**,)
 
@@ -38,7 +33,6 @@ instance fields that can't be accessed outside **Customer**,)
 Create a constructor that sets)
 
 [//]: # (   `firstName` and `lastName`. Write getters and setters for each property.)
-
 
 [//]: # (6. Create an interface named **Describable**)
 
